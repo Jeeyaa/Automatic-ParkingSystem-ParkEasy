@@ -1,0 +1,14 @@
+1. The images used in the creation of the web application are given in a seperate folder.
+
+2. The homepage consists of a signup and login facility, the details of which are given in 'reg.php' file.
+
+3. The system is based on its connectivity to XAMPP server and the connection of the same is necessary to run the web application real time on a localhost. The connectivity code is provided in 'connection.php' file.
+
+4. Once the user is registered with the system, the details are stored in a SQL table (named 'user_details' in this case). You can use your own table names. Make note of the column names and update changed accordingly.
+
+5. The details of parking are displayed on status page which is showed after the user logs in. On the same page, dummy wallet transactions can take place. The code for dummy wallet transaction is provided in 'update_balance.php' file.
+
+6. Admin login functionally is demonstrated in 'admin_authentication' file. The code for admin page is provided in file 'Admin page.php'.
+
+7. 'help.html' is merely an additional webpage given for enhancing the design of the web application.
+
