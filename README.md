@@ -13,3 +13,6 @@ Key Features:
 5. Seamless Data Handling: Entry and exit data, including log reports, are transmitted to the client-side processing unit in real-time. This data is then securely stored in the central database server.
 
 6. User-Friendly Web Interface: ParkEasy provides an intuitive web-based interface hosted locally, allowing easy and secure access to all parking data. An additional secure administrator login grants access to historical and current vehicle information within the parking lot.
+
+![Alt text](Output images/home1.png)
+
