@@ -14,7 +14,27 @@ Key Features:
 
 6. User-Friendly Web Interface: ParkEasy provides an intuitive web-based interface hosted locally, allowing easy and secure access to all parking data. An additional secure administrator login grants access to historical and current vehicle information within the parking lot.
 
+**License plate scanning:**
+![anpr](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/8e7768c2-f414-4d40-9e61-15ed182e5661)
+
 **Homepage**:
-<img src="./README/home1.png">
+![home1](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/63fdcfea-b6bd-46b6-86fd-9553b211331b)
+![home2](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/6e8ab0d9-7751-47a7-950b-22fe08d83a53)
+![home4](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/a0284d0b-2190-4342-a1b7-549933c6075d)
+
+**Status Page after logging in**:
+![stat](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/f8d47911-52b1-4247-b86f-627e68d9b1db)
+
+**Update balance functionality**:
+![update balance (1)](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/5cbe1414-a1e2-438e-a22b-c44375f2b255)
+![update balance (2)](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/0a335cae-7e2a-456e-8a42-0fbbaee09288)
+
+**Admin page**:
+![admin](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/85c16887-99b5-46e6-9676-6abff22e75d5)
+
+
+
+
+
 
 
