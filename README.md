@@ -26,8 +26,8 @@ Key Features:
 ![stat](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/f8d47911-52b1-4247-b86f-627e68d9b1db)
 
 **Update balance functionality**:
-![update balance (1)](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/5cbe1414-a1e2-438e-a22b-c44375f2b255)
 ![update balance (2)](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/0a335cae-7e2a-456e-8a42-0fbbaee09288)
+![update balance (1)](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/5cbe1414-a1e2-438e-a22b-c44375f2b255)
 
 **Admin page**:
 ![admin](https://github.com/Jeeyaa/Automatic-ParkingSystem-ParkEasy/assets/128837492/85c16887-99b5-46e6-9676-6abff22e75d5)
