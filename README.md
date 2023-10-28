@@ -15,6 +15,6 @@ Key Features:
 6. User-Friendly Web Interface: ParkEasy provides an intuitive web-based interface hosted locally, allowing easy and secure access to all parking data. An additional secure administrator login grants access to historical and current vehicle information within the parking lot.
 
 **Homepage**:
-<img src="Output images/home1.png">
+<img src="./README/home1.png">
 
 
